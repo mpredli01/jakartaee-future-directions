@@ -1,5 +1,16 @@
 # Biweekly Agenda
 
+## September 24<sup>th</sup>, 2026
+
+* Topic **The Merger of MicroProfile and Jakarta EE**
+* Facilitator: **Neil Patterson** and **Michael Redlich**
+* Description:
+  * A proposal to merge MicroProfile into Jakarta EE was initiated in March 2025.
+  * Then, in May 2025, there was a discussion on the namespace issue, that is, should the MicroProfile specs retain their respective namespaces?
+  * An official ballot was initiated in November 2025 resulting in the proposal to retain the MicroProfile namespaces having failed.
+  * The call for the merger was resurrected earlier this month.
+  * This meeting is to discuss this face-to-face, as it were, instead of via email. 
+
 ## July 23<sup>rd</sup>, 2026
 
 * Topic: **Automating the Hard Stuff with Agentic Assistants**
