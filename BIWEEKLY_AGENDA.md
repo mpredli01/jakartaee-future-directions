@@ -10,6 +10,8 @@
   * An official ballot was initiated in November 2025 resulting in the proposal to retain the MicroProfile namespaces having failed.
   * The call for the merger was resurrected earlier this month.
   * This meeting is to continue discussing this topic face-to-face, as it were, instead of via email.
+  * [Recording](https://youtu.be/NRKl4VJgt7Y)
+  * [Minutes](()
 
 -----
 
