@@ -11,7 +11,7 @@
   * The call for the merger was resurrected earlier this month.
   * This meeting is to continue discussing this topic face-to-face, as it were, instead of via email.
   * [Recording](https://youtu.be/NRKl4VJgt7Y)
-  * [Minutes](()
+  * [Minutes](transcripts/Jakarta_EE_FD-20261029.md)
 
 -----
 
