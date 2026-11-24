@@ -1,5 +1,13 @@
 # Biweekly Agenda
 
+## December 10<sup>th</sup>, 2026
+
+* Topic **Jakarta CRaC**
+* Facilitator: **Gerrit Grunwald**
+* Description:
+  * [Jakarta CRaC](https://jakarta.ee/specifications/crac/1.0/), having passed it creation review in October 2026, defines how Jakarta EE runtimes take part in JVM checkpoint and restore, so that an application can be restored from a snapshot instead of starting from scratch.
+  * Gerrit will provide details on what developers can potential implementers can expect in this new specification.
+
 ## October 29<sup>th</sup>, 2026
 
 * Topic **The Merger of MicroProfile and Jakarta EE (part 2)**
